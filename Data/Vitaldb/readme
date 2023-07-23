@@ -1,1 +1,4 @@
+This folder contains the features dataset from 1, 2, 3, 4, 5, 6, 7, and 8 cardiac cycles. These features are not standardized and include the ground-truth and other features that you may need
+in your study such as age, BMI, weight, height, and heart rate,
 
+If you wish to have the raw dataset we used in this study, you could use the following link to access it: https://drive.google.com/drive/folders/1BKTpoAsM8UfrQi8gd3NHQkAd4adWA743?usp=sharing
