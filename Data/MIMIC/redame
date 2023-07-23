@@ -1,1 +1,1 @@
-
+This folder contains the MIMIC dataset, including the extracted features (not standardized), not when testing on MIMIC, the mean and variance from Vitaldb should be used. Raw data are also included in this folder
